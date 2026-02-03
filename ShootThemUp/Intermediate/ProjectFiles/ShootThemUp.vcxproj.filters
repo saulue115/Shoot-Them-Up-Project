@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShootThemUp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootThemUp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootThemUpEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShootThemUp">
+      <UniqueIdentifier>{DCB7C3D0-3069-3BC9-962F-B8B72DFC9862}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootThemUp\ShootThemUp.Build.cs">
+      <Filter>Source\ShootThemUp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShootThemUp\ShootThemUp.cpp">
+      <Filter>Source\ShootThemUp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\ShootThemUp.h">
+      <Filter>Source\ShootThemUp</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootThemUp\Base">
+      <UniqueIdentifier>{8F509B01-319C-3C0B-BD43-FB6D61737E6A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ShootThemUp\Base\Actors">
+      <UniqueIdentifier>{B424A8EF-B13F-38BC-BF75-74C12EDB3255}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootThemUp\Base\Actors\BaseWeapon.cpp">
+      <Filter>Source\ShootThemUp\Base\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\Base\Actors\BaseWeapon.h">
+      <Filter>Source\ShootThemUp\Base\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootThemUp\Base\Characters">
+      <UniqueIdentifier>{9A3C1434-4D9C-3E6D-834E-E7EDEE99030E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootThemUp\Base\Characters\BaseCharacter.cpp">
+      <Filter>Source\ShootThemUp\Base\Characters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\Base\Characters\BaseCharacter.h">
+      <Filter>Source\ShootThemUp\Base\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootThemUp\Base\Components">
+      <UniqueIdentifier>{6203613E-0A1D-3E16-BA5E-60A3850A6865}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootThemUp\Base\Components\BaseCharacterMovementComponent.cpp">
+      <Filter>Source\ShootThemUp\Base\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\Base\Components\BaseCharacterMovementComponent.h">
+      <Filter>Source\ShootThemUp\Base\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootThemUp\Framework">
+      <UniqueIdentifier>{1653B44C-4ECA-3B24-AD2E-8EB34FC5CDB5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ShootThemUp\Framework\GameModes">
+      <UniqueIdentifier>{70415D03-D5EE-3E8B-B906-C07051D03B91}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootThemUp\Framework\GameModes\STUGameModeBase.cpp">
+      <Filter>Source\ShootThemUp\Framework\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\Framework\GameModes\STUGameModeBase.h">
+      <Filter>Source\ShootThemUp\Framework\GameModes</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootThemUp\RewindTime">
+      <UniqueIdentifier>{B9157AA8-0142-3A3F-AA5C-29ADEB8075F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ShootThemUp\RewindTime\Components">
+      <UniqueIdentifier>{DD87144F-F5E2-333A-9E5E-08BB8DC7D533}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootThemUp\RewindTime\Components\RewindComponent.cpp">
+      <Filter>Source\ShootThemUp\RewindTime\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\RewindTime\Components\RewindComponent.h">
+      <Filter>Source\ShootThemUp\RewindTime\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootThemUp\RewindTime\Components\RewindVisualizationComponent.cpp">
+      <Filter>Source\ShootThemUp\RewindTime\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootThemUp\RewindTime\Components\RewindVisualizationComponent.h">
+      <Filter>Source\ShootThemUp\RewindTime\Components</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

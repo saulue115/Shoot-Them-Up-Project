@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\unrealeditor\\inc\\shootthemup\\uht\\stugamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\x64\\shootthemupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootthemup\\definitions.shootthemup.h",
+            "c:\\unrealprojects\\shootthemup\\source\\shootthemup\\framework\\gamemodes\\stugamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\unrealeditor\\inc\\shootthemup\\uht\\stugamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

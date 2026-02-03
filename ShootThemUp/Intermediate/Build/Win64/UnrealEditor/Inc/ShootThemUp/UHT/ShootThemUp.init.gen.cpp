@@ -1,0 +1,63 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeShootThemUp_init() {}
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnFastForwardCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnFastForwardStarted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalFastForwardCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalFastForwardStarted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalRewindCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalRewindStarted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimelineVisualizationDisabled__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimelineVisualizationEnabled__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimeScrubCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimeScrubStarted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnRewindCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnRewindStarted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnTimeManipulationCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnTimeManipulationStarted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnTimeScrubCompleted__DelegateSignature();
+	SHOOTTHEMUP_API UFunction* Z_Construct_UDelegateFunction_ShootThemUp_OnTimeScrubStarted__DelegateSignature();
+	static FPackageRegistrationInfo Z_Registration_Info_UPackage__Script_ShootThemUp;
+	FORCENOINLINE UPackage* Z_Construct_UPackage__Script_ShootThemUp()
+	{
+		if (!Z_Registration_Info_UPackage__Script_ShootThemUp.OuterSingleton)
+		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnFastForwardCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnFastForwardStarted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalFastForwardCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalFastForwardStarted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalRewindCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalRewindStarted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimelineVisualizationDisabled__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimelineVisualizationEnabled__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimeScrubCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnGlobalTimeScrubStarted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnRewindCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnRewindStarted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnTimeManipulationCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnTimeManipulationStarted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnTimeScrubCompleted__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_ShootThemUp_OnTimeScrubStarted__DelegateSignature,
+			};
+			static const UECodeGen_Private::FPackageParams PackageParams = {
+				"/Script/ShootThemUp",
+				SingletonFuncArray,
+				UE_ARRAY_COUNT(SingletonFuncArray),
+				PKG_CompiledIn | 0x00000000,
+				0xFD6E476B,
+				0x13730484,
+				METADATA_PARAMS(0, nullptr)
+			};
+			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_ShootThemUp.OuterSingleton, PackageParams);
+		}
+		return Z_Registration_Info_UPackage__Script_ShootThemUp.OuterSingleton;
+	}
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ShootThemUp(Z_Construct_UPackage__Script_ShootThemUp, TEXT("/Script/ShootThemUp"), Z_Registration_Info_UPackage__Script_ShootThemUp, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xFD6E476B, 0x13730484));
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

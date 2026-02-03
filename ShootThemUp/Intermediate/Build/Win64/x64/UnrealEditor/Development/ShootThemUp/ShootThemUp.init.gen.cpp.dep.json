@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\unrealeditor\\inc\\shootthemup\\uht\\shootthemup.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\x64\\shootthemupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\shootthemup\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootthemup\\definitions.shootthemup.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProjects\\ShootThemUp\\Source\\ShootThemUp\\ShootThemUp.Build.cs",
+		"C:\\UnrealProjects\\ShootThemUp\\Source\\ShootThemUp.Target.cs",
+		"C:\\UnrealProjects\\ShootThemUp\\Source\\ShootThemUpEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
